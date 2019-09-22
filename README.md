@@ -7,7 +7,9 @@ Caros alunos,
 Este repositório contém todos os arquivos relacionados ao curso, separados por módulos. 
 
 Depois de fazer os downloads, lembrem-se de extrair os arquivos preservando a estrutura de pastas.
-
+  \
+  \
+  
 Pedro H. G. F. Souza
 
 Sergei Soares
@@ -15,4 +17,4 @@ Sergei Soares
   \
   \
   \
-Última atualização: 21/09/2019
+Última atualização: 22/09/2019
